@@ -1,0 +1,49 @@
+.head-box {
+  height: 10em;
+  background-color: #007791;
+  padding: 2em;
+  color: white;
+}
+.nav-box {
+  height: 2em;
+  background-color: #D3D3D3;
+  padding: 2em;
+}
+.main {
+  float: left;
+  height: 30em;
+  width: 45em;
+  padding: 2em;
+  margin: 1em;
+}
+aside {
+  float: right;
+  height: 8em;
+  width: 20em;
+  padding: 2em;
+  margin: 1em;
+}
+#container {
+  display: flex;
+}
+.footer-box {
+  height: 15em;
+  width: 97%;
+  background-color: #5A5A5A;
+  padding: 1em;
+  color: white;
+  text-align: center;
+  display: inline-block;
+}
+.important {
+  color: black;
+}
+.important-links {
+  color: white;
+}
+body {
+  font-family: sans-serif;
+}
+.links {
+color: #007791;
+}
